@@ -1,0 +1,6 @@
+{
+  "name": "NutriWise USA — Health & Nutrition Platform",
+  "description": "Evidence-based nutrition guidance, AI-powered meal planning with thinking mode, healthy recipe library, USDA food database, and registered dietitian booking for American households.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
